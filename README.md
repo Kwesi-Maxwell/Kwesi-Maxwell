@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kwesi-Maxwell
-- 👀 I’m interested in Data Analytics , Project Management and IT Audit.
+- 👀 I’m interested in Data Analytics , Project Management, Fintech Projects and IT Audit.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on IT Audit projects
 - 📫 How to reach me .... Send me a mail on josephmaxwell_appiah@yahoo.com
